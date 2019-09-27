@@ -28,7 +28,7 @@ public class FindBeerActivity extends Activity {
         //Get the selected item in the Spinner
         String beerType = String.valueOf(color.getSelectedItem());
 
-        //TODO: Get recommendations from the BeerExpert class
+        //TODO: Get recommendations from the BeerExpert class.
 
         beerType = String.valueOf(expert.getBrands(beerType));
 
