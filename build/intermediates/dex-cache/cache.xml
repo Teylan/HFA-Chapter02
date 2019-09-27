@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/grantlbuchanan/.android/build-cache/a8f9530e8ed304bac248367b4121fe9ffbafc813/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/grantlbuchanan/AndroidStudioProjects/HFA-Chapter02/app/build/intermediates/pre-dexed/debug/classes_af46b4ff77777a745278b51b163b3763aeb145f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/grantlbuchanan/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/grantlbuchanan/AndroidStudioProjects/HFA-Chapter02/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a986ab1307633cc21323abedc9b80ecb9237f0af.jar" />
+    </item>
+
+</items>
